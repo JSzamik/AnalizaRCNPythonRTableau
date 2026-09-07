@@ -10,6 +10,11 @@ Całość to cztery kroki, które robi się po kolei:
 3. `notebook.ipynb` czyści całość, robi EDA i generuje `raport_interaktywny.html`.
 4. Plik `.twb` to dashboard Tableau, który czyta dane z tego co wypadło z notebooka.
 
+## Dashboardy na żywo
+
+- [Analiza RCN — Story](https://public.tableau.com/app/profile/jakub.szamik/viz/AnalizaRCN-Podzianasposobyuytkowania/Story1)
+- [Analiza RCN — Final](https://public.tableau.com/app/profile/jakub.szamik/viz/AnalizaRCN/Fina)
+
 ## Co jest w repo
 
 - `Scrapper.py` — pobieranie GPKG-ów
