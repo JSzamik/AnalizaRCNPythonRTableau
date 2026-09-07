@@ -1,0 +1,9 @@
+# Python - Scrapper.py
+requests
+
+# Python - notebook.ipynb (analiza / wykresy)
+pandas
+numpy
+matplotlib
+seaborn
+jupyter

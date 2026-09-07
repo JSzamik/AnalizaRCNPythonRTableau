@@ -1,0 +1,78 @@
+# ============================================================
+# DANE - surowe i wynikowe (ciężkie pliki, nie trzymamy w repo)
+# ============================================================
+Data/
+data/
+wyniki/
+*.gpkg
+*.gpkg.zip
+*.zip
+*.csv
+*.tsv
+*.xlsx
+*.xls
+
+# ...ale zostawiamy w repo przykładowe/małe pliki referencyjne, jeśli takie są
+!przyklad*.csv
+!sample*.csv
+
+# statusy i logi generowane przez Scrapper.py
+_bledy_pobierania.csv
+_puste_lub_uszkodzone.csv
+_status_pobierania.csv
+
+# ============================================================
+# PYTHON
+# ============================================================
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+.eggs/
+.venv/
+venv/
+env/
+.env
+.ipynb_checkpoints/
+
+# ============================================================
+# JUPYTER NOTEBOOK
+# ============================================================
+# metadane wykonania/checkpointy notebooków
+.ipynb_checkpoints/
+*.nbconvert.ipynb
+
+# ============================================================
+# R
+# ============================================================
+.Rhistory
+.RData
+.Rproj.user/
+*.Rproj
+.Rprofile
+
+# ============================================================
+# TABLEAU
+# ============================================================
+# lokalne pliki tymczasowe/cache Tableau
+*.tde
+*.hyper
+*.twbx
+Tableau_*.log
+*.tmp
+
+# ============================================================
+# RAPORTY / EKSPORTY (jeśli generowane, a nie ręcznie edytowane)
+# ============================================================
+raport_interaktywny.html
+*.pdf
+
+# ============================================================
+# SYSTEM / EDYTOR
+# ============================================================
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
+*.log
