@@ -68,7 +68,6 @@ gotowe dashboardy są dostępne pod linkami wyżej.
 | `analiza_extract_dzialki.R` | łączenie działek z atrybutami rodzaju z GPKG |
 | `install_packages.R` | jednorazowa instalka pakietów R do powyższego |
 | `notebook.ipynb` | czyszczenie, EDA, wzbogacenie danych, generowanie raportu |
-| `raport_interaktywny.html` | wynik działania notebooka — nie ruszać ręcznie |
 | `Analiza_RCN_-_Podział_na_sposoby_użytkowania.twb` | definicja dashboardu Tableau |
 | `requirements.txt` | zależności Pythona |
 
