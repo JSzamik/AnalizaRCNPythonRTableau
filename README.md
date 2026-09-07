@@ -12,8 +12,8 @@ Całość to cztery kroki, które robi się po kolei:
 
 ## Dashboardy na żywo
 
-- [Analiza RCN — Story](https://public.tableau.com/app/profile/jakub.szamik/viz/AnalizaRCN-Podzianasposobyuytkowania/Story1)
-- [Analiza RCN — Final](https://public.tableau.com/app/profile/jakub.szamik/viz/AnalizaRCN/Fina)
+- [Analiza RCN ](https://public.tableau.com/app/profile/jakub.szamik/viz/AnalizaRCN-Podzianasposobyuytkowania/Story1)
+- [Analiza RCN 2](https://public.tableau.com/app/profile/jakub.szamik/viz/AnalizaRCN/Fina)
 
 ## Co jest w repo
 
